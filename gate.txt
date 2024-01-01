@@ -1,0 +1,31 @@
+TOC & CD ---------------------------- 68 hrs
+DLD --------------------------------- 32 hrs
+Graph theory ------------------------ 13 hrs
+C Programming ----------------------- 37hrs
+Data structures & Algorithms -------- 100hrs
+linear algebra ---------------------- 10hrs
+Calculus ---------------------------- 10hrs
+Computer Organization --------------- 29hrs
+Database ---------------------------- 36hrs
+Combinatorics ----------------------- 11hrs
+Probability  ------------------------ 11hrs
+Operating System -------------------- 38hrs
+Set Theory -------------------------- 13hrs
+Computer Networks ------------------- 38hrs
+Mathematical Logic ------------------ 8hrs
+All Interactive problem
+Solving in EM & DM ------------------ 13hrs
+
+Month-1 : TOC & CD, DLD
+Month-2 : Graph Theory, C programming, DS & Algo
+Month-3 : DS & Algo, linear algebra, calculus, Computer Organization
+Month-4 : Database,  combinatorics, Probability, Operating systems
+Month-5 : Set theory, Computer networks, mathematical logic, EM & DM interactive problem solving.
+
+
+
+
+
+
+
+
