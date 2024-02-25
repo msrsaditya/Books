@@ -1,9 +1,9 @@
 1. Engineering Mathematics (4 Subjects in GATE Syllabus broken down into 7 subjects with Applied Course)
 
-- Discrete Mathematics (Mathematical Logic, Set Theory & Algebraic Structures and Graph Theory)
+- Discrete Mathematics (Mathematical Logic, Set Theory & Algebraic Structures, Graph Theory, Combinatorics)
 - Linear Algebra
 - Calculus
-- Probability and Statistics (Combinatorics, Probability)
+- Probability and Statistics (Probability)
 
 2. Digital Logic
 
